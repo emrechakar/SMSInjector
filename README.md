@@ -24,6 +24,14 @@ git clone https://github.com/emrechakar/SMSInjector && cd SMSInjector && python3
 
 **If you don't receive sms when you run it again, search for const-string v1, with CTRL+F in the /SMSInjector/SMSHacker.smali file. (line 131). Then type the number you want to enter in " ".**
 
+#### Tools Overview
+
+![view.png](https://github.com/emrechakar/SMSInjector/blob/main/images/view.png)
+![completed.png](https://github.com/emrechakar/SMSInjector/blob/main/images/completed.png)
+
+
+
+
 
 
 
