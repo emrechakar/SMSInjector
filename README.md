@@ -36,7 +36,7 @@ python3 smsinject.py
 ![completed.png](https://github.com/emrechakar/SMSInjector/blob/main/images/completed.png)
 
 
-
+To watch how it works: https://www.linkedin.com/posts/emre-%C3%A7akar_androidhacking-androidsecurity-hack-activity-6971468554386718720-jlxk?utm_source=share&utm_medium=member_android
 
 
 
