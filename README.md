@@ -10,7 +10,11 @@ I am not responsible for any problems or damage caused by this program!!!
 Quick installation for Ubuntu, Kali Linux
 
 ```
-git clone https://github.com/emrechakar/SMSInjector && cd SMSInjector && python3 smsinject.py
+git clone https://github.com/emrechakar/SMSInjector 
+
+cd SMSInjector 
+
+python3 smsinject.py
 ```
 
 ### Dependencies
